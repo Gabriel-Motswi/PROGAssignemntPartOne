@@ -1,0 +1,16 @@
+{"recipient":"+27718693002","messageID":"1506637279","messageHash":"15:1:HIGOOD","message":"Hi John, you are good+"}
+{"recipient":"+27831234567","messageID":"1420093640","messageHash":"14:2:PLEASENOTES","message":"Please send me the meeting notes."}
+{
+    "Meesage Number": 2,
+    "Message": "Please remember to bring the documents for our meeting.",
+    "Recipient": "+27718693002",
+    "MessageHash": "12:2:PLEASEMEETING",
+    "MessageID": "1209147669"
+}
+{
+    "Meesage Number": 2,
+    "Message": "Please remember to bring the documents.",
+    "Recipient": "+27718693002",
+    "MessageHash": "17:2:PLEASEDOCUMENTS",
+    "MessageID": "1778031981"
+}
